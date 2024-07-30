@@ -1,2 +1,2 @@
 # Ray-Tracer
-Learning project about raytracing with C++
+Learning project about 3D rendering with C++
